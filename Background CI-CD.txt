@@ -1,0 +1,30 @@
+CI:
+    Jenkins (Configuration, Create credential)
+    Groovy
+    Gitlab/Svn (Command line)
+    python
+    batch, shell
+
+
+CD:
+    Docker
+    Kubernetes
+    Ansible, Helm
+    Azure/AWS
+    Monitor: MySQL, MongoDB, Grafana
+
+
+CI:
+    Gitlab CICD (Configuration)
+    yaml
+    Gitlab/Svn (Command line)
+    python
+    batch, shell
+
+
+CD:
+    Docker
+    Kubernetes
+    Ansible, Helm
+    Azure/AWS
+    Monitor: MySQL, MongoDB, Grafana
