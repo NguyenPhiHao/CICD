@@ -1,0 +1,8 @@
+Hí bạn
+Theo mình bạn nên xem từ 
+_ Networking (quan trọng)
+_ VM, container. Phân biệt giữa VM và container khác nhau thế nào nè
+_ Docker
+_ Docker image, network, ...
+_ CICD
+_ Kubernetes
